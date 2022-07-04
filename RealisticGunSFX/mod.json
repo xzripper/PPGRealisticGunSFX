@@ -1,0 +1,16 @@
+{
+    "Name": "More Realistic Gun SFX.",
+    "Author": "zxc.? (Ivan Perzhynsky).",
+    "Description": "More realistic gun SFX when shooting.",
+    "ModVersion": "1.0",
+    "GameVersion": "1.24+",
+    "ThumbnailPath": "ModThumbnail.png",
+    "EntryPoint": "GunSFX.GunSFX",
+    "Tags": [
+        "Realistic",
+        "Fun"
+    ],
+    "Scripts": [
+        "GunSFX.cs"
+    ]
+}
